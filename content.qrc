@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>vserv/qml/content/Content.qml</file>
+        <file>vserv/qml/content/HtmlContent.qml</file>
+        <file>vserv/qml/content/ImageContent.qml</file>
+        <file>vserv/qml/content/VideoContent.qml</file>
+        <file>vserv/qml/content/request/AdResponse.js</file>
+        <file>vserv/qml/content/request/Communication.qml</file>
+        <file>vserv/qml/content/request/ContentRequestParameters.qml</file>
+        <file>vserv/qml/content/request/CriticalParameters.js</file>
+        <file>vserv/qml/content/request/CriticalParameters.qml</file>
+        <file>vserv/qml/content/request/DeviceRenditionParameters.js</file>
+        <file>vserv/qml/content/request/GeoParameters.js</file>
+        <file>vserv/qml/content/request/ImportantParameters.js</file>
+        <file>vserv/qml/content/request/ImportantParameters.qml</file>
+        <file>vserv/qml/content/request/MandatoryParameters.js</file>
+        <file>vserv/qml/content/request/MandatoryParameters.qml</file>
+        <file>vserv/qml/content/request/MobileAppIds.js</file>
+        <file>vserv/qml/content/request/MobileSiteIds.js</file>
+        <file>vserv/qml/content/request/NetworkSimInformation.js</file>
+        <file>vserv/qml/content/request/QmlXmlHttpRequest.qml</file>
+        <file>vserv/qml/content/request/StrictBannerDimensionValues.js</file>
+        <file>vserv/qml/content/request/UriHelper.js</file>
+        <file>vserv/qml/content/request/UserDemographics.js</file>
+        <file>vserv/qml/content/request/DeviceRenditionParameters.qml</file>
+        <file>vserv/qml/content/request/NetworkSimInformation.qml</file>
+        <file>vserv/qml/content/request/GeoParameters.qml</file>
+        <file>vserv/qml/content/request/UserDemographics.qml</file>
+        <file>vserv/qml/content/request/MobileAppIds.qml</file>
+        <file>vserv/qml/content/request/MobileSiteIds.qml</file>
+        <file>vserv/qml/content/bezar-flat-long-shadow.png</file>
+    </qresource>
+</RCC>
